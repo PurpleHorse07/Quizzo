@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Qizzo</string>
+
+    <string-array name="Q">
+        <item>Question 1</item>
+        <item>Question 2</item>
+        <item>Question 3</item>
+        <item>Question 4</item>
+        <item>Question 5</item>
+        <item>Question 6</item>
+        <item>Question 7</item>
+        <item>Question 8</item>
+        <item>Question 9</item>
+        <item>Question 10</item>
+    </string-array>
+
+    <string-array name="A">
+        <item>{"O1":"A","O2":"B"}</item>
+        <item>{"O1":"C","O2":"T"}</item>
+        <item>{"O1":"E","O2":"D"}</item>
+        <item>{"O1":"F","O2":"S"}</item>
+        <item>{"O1":"G","O2":"R"}</item>
+        <item>{"O1":"H","O2":"Q"}</item>
+        <item>{"O1":"I","O2":"P"}</item>
+        <item>{"O1":"J","O2":"O"}</item>
+        <item>{"O1":"K","O2":"N"}</item>
+        <item>{"O1":"L","O2":"M"}</item>
+    </string-array>
+
+    <string-array name="op2">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op3">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op5">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op6">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op7">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op8">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op9">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="op10">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+</resources>
